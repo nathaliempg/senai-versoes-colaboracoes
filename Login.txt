@@ -1,3 +1,2 @@
  codigo login inicio
-validação de email do usuário
 codigo login fim
