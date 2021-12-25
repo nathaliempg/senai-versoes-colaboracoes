@@ -18,3 +18,5 @@ este arquivo foi modificado, commitado e por fim dado git pull para atualizaçã
 
 
 lembrei do comando : git commit
+lembrei do comando : git status
+
