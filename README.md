@@ -15,3 +15,6 @@ git pull - "puxa" última versão do arquivo que está no repositório remoto
 git merge - mescla os arquivos alterados
 git tag - etiqueta que marca uma mudança no código. Uma versão
 este arquivo foi modificado, commitado e por fim dado git pull para atualização no repositório local
+
+
+lembrei do comando : git commit
