@@ -5,3 +5,5 @@ reporsitório remoto clonado com sucesso no repositório local de outro computad
 o pc quebrou. 
 alterei o arquivo no repositório remoto
 dei git pull
+
+o arquivo versoes.txt é diferente do arquivo texto.txt
