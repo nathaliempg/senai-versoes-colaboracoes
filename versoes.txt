@@ -1,2 +1,7 @@
 temos um arquivo que servirá de exemplo para podermos fazer o versionamento
 foi feita uma alteração neste arquivo, dado o commit e por fim, no repositório local, git pull
+
+reporsitório remoto clonado com sucesso no repositório local de outro computador
+o pc quebrou. 
+alterei o arquivo no repositório remoto
+dei git pull
