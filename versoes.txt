@@ -11,3 +11,5 @@ o arquivo versoes.txt é diferente do arquivo texto.txt
 nova tentativa para entender como funciona
 
 mais outra tentativa para entender como funciona
+
+podemos entender como funciona
