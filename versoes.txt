@@ -7,3 +7,5 @@ alterei o arquivo no repositório remoto
 dei git pull
 
 o arquivo versoes.txt é diferente do arquivo texto.txt
+
+nova tentativa para entender como funciona
